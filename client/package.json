@@ -1,6 +1,6 @@
 {
   "version": "0.0.0",
-  "name": "loopback angular authentification",
+  "name": "angular-authentification",
   "description": "User Authentification for AngularJS and Loopback",
   "devDependencies": {
     "karma": "^0.12.16",

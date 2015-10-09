@@ -6,7 +6,7 @@ angular.module('myApp').controller('HomeCtrl',
     	$location.path('/login');
     } else {
 	    $scope.user = {
-	    	email: AuthService.currentUser().email
+			email: AuthService.currentUser().email
 	    };	
     }
 }]);

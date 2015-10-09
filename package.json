@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "loopback-angular",
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
